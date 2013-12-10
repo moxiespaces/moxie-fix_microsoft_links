@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name        = "fix_microsoft_links"
+  s.name        = "moxie-fix_microsoft_links"
   s.license     = 'MIT'
-  s.version     = "0.1.4"
+  s.version     = "0.1.4.1"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Zachary Kloepping", "Jon Bell"]
-  s.homepage    = "https://github.com/spilliton/fix_microsoft_links"
+  s.homepage    = "https://github.com/moxiespaces/moxie-fix_microsoft_links"
   s.summary     = "Fixes redirects to login pages when a user clicks a link to your site from a Microsoft application like Word or Excel"
   s.files       = [
                   "init.rb",
